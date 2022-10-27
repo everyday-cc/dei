@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: dei
+name: DEI
+keywords:
+  - Diversity
+  - Equity
+  - Inclusion
+hashtags:
+  - "#DEI"
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/
+  people: https://everyday-cc.github.io/dei/api/people/
+  events: https://everyday-cc.github.io/dei/api/events/
+  newsletters: https://everyday-cc.github.io/dei/api/newsletters/

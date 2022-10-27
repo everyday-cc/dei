@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: allyship
+name: Allyship
+shortname: Allyship
+parent: DEI
+keywords:
+  - allyship
+hashtags:
+  - "#Allyship"
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/allyship/

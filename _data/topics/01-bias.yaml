@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: bias
+name: Bias
+shortname: bias
+description: Stereotypes, prejudices, or preferences that cause us to favor a person, thing, or group over another. They are implicit attitudes, behaviors, or words that we exhibit in our personal lives and in the workplace.
+parent: DEI
+keywords:
+  - unconcious bias
+hashtags:
+  - "#Bias"
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/bias/
