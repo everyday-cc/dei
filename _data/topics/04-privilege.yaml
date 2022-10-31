@@ -1,0 +1,10 @@
+taxonomy: topic
+_id: privilege
+name: Privilege
+parent: DEI
+keywords:
+  - privilege
+images:
+  - https://everyday-cc.github.io/dei/assets/images/topics/privilege.jpg
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/privilege/

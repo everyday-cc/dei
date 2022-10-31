@@ -1,6 +1,0 @@
-taxonomy: topic
-_id: identity
-name: Identity
-parent: DEI
-services:
-  learning: https://everyday-cc.github.io/dei/api/learning/identity/

@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: black-lives-matter
+name: Black Lives Matter
+parent: DEI
+keywords:
+  - black lives matter
+images:
+  - https://everyday-cc.github.io/dei/assets/images/topics/black-lives-matter.jpg
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/black-lives-matter/
+  samples: https://everyday-cc.github.io/dei/api/samples/black-lives-matter/
+  people: https://everyday-cc.github.io/dei/api/people/black-lives-matter/

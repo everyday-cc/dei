@@ -1,9 +1,0 @@
-taxonomy: topic
-_id: power-and-privilege
-name: Power & Privilege
-parent: DEI
-keywords:
-  - power
-  - privilege
-services:
-  learning: https://everyday-cc.github.io/dei/api/learning/power-and-privilege/

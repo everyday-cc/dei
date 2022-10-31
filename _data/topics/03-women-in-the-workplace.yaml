@@ -1,0 +1,10 @@
+taxonomy: topic
+_id: women-in-the-workplace
+name: Women in the Workplace
+parent: DEI
+images:
+  - https://everyday-cc.github.io/dei/assets/images/topics/women-in-the-workplace.jpg
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/women-in-the-workplace/
+  samples: https://everyday-cc.github.io/dei/api/samples/women-in-the-workplace/
+  people: https://everyday-cc.github.io/dei/api/people/women-in-the-workplace/

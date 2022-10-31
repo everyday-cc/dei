@@ -1,0 +1,10 @@
+taxonomy: topic
+_id: lgbtq+
+name: LGBTQ+
+parent: DEI
+images:
+  - https://everyday-cc.github.io/dei/assets/images/topics/lgbtq+.jpg
+services:
+  learning: https://everyday-cc.github.io/dei/api/learning/lgbtq+/
+  samples: https://everyday-cc.github.io/dei/api/samples/lgbtq+/
+  people: https://everyday-cc.github.io/dei/api/people/lgbtq+/

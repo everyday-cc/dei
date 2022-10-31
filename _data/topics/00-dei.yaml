@@ -7,6 +7,8 @@ keywords:
   - Inclusion
 hashtags:
   - "#DEI"
+images:
+  - https://everyday-cc.github.io/dei/assets/images/topics/dei.jpg
 services:
   learning: https://everyday-cc.github.io/dei/api/learning/
   people: https://everyday-cc.github.io/dei/api/people/
