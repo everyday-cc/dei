@@ -1,7 +1,6 @@
 taxonomy: topic
 _id: allyship
 name: Allyship
-shortname: Allyship
 parent: DEI
 keywords:
   - allyship
