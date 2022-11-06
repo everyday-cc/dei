@@ -405,45 +405,6 @@
       ]
     },
     {
-      "path": "_learning/articles/university-of-colorado-diversity-equity-inclusion-101.md",
-      "title": "Diversity, Equity, & Inclusion 101",
-      "excerpt": "The content provided in these guides serve as a starting point for you to begin laying the foundations of your DEI learning. We highly encourage you to reach out to the office(s)/center(s) listed within each topic to find additional resources, facilitated training opportunities, and learning tools to further your education.",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/articles/university-of-colorado-diversity-equity-inclusion-101/index.json",
-      "webUrl": "https://www.ucdenver.edu/offices/equity/education-training/self-guided-learning/diversity-equity-and-inclusion-101",
-      "provider": {
-        "name": "University of Colorado",
-        "domain": "ucdenver.edu"
-      },
-      "publishedDateTime": "2020-09-07T18:56:54-07:00",
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
-      "path": "_learning/courses/united-way-of-central-iowa-21-day-equity-challenge.md",
-      "title": "21 Day Equity Challenge",
-      "excerpt": "The 21-Day Equity Challenge is a powerful opportunity to develop a deeper understanding of how inequity and racism affect our lives and our community.",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/courses/united-way-of-central-iowa-21-day-equity-challenge/index.json",
-      "webUrl": "https://www.unitedwaydm.org/equity-challenge",
-      "provider": {
-        "name": "United Way of Central Iowa",
-        "domain": "unitedwaydm.org"
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
       "path": "_learning/videos/bhasin-consulting-inc-everyday-acts-of-courage-are-key-for-allyship.md",
       "title": "Everyday Acts of Courage are Key for Allyship",
       "excerpt": "Allyship is critical for interrupting racism, including anti-Black racism. But how can you step up to make this happen? I recently had the privilege of chatting with Minda Harts, an award-winning speaker and expert on building racially inclusive workplaces, and we talked about the importance of intersectionality",
