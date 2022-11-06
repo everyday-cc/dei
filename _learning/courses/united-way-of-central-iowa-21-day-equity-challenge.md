@@ -4,7 +4,7 @@ excerpt: "The 21-Day Equity Challenge is a powerful opportunity to develop a dee
 webUrl: https://www.unitedwaydm.org/equity-challenge
 type: course
 price: Free
-heat: 51
+heat: 50
 
 provider:
   name: United Way of Central Iowa
