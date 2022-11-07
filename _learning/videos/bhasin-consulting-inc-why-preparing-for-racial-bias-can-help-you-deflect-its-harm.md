@@ -16,7 +16,7 @@ provider:
 
 topics:
   - DEI
-  - Implicit Bias
+  - Bias
 
 images:
   - url: https://i.ytimg.com/vi/PWwctH2IZp0/maxresdefault.jpg
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8NN6mBv7jCO+ZrbIy2oCRHRxri9Vh4ypdE3/tnKCRHJbSbMjXVLPWcY/MTo4/aQmNx1q5LyMzlLNk4/fRw5NGhHSBl9nqCKBACmr2RnJ3HVT0qDdtHCS0x2jwpvUWgiJdMwJj1BGBzh2bXX2ptkoqrDjC9hoNZBWiC4AVahDNXV/kBcLPaB/dxpOfhA+LMslLk1OZx+PyXaKec9+WGOsKEZwUS33PpAzJYX6cyg+tX3gdCQ31/ilbhzRipHElKxDwBjeJB5Qo9X4TTF3lniiV3t2PEOQZxQdAfKBFLwfksqmQjnt6Cz7P8VD/lJJ76fkzh5qDhpePw3QpZgmEjjqxhY+Frq3JJspqpZh2h7qR6tBJdbgr0NNU+cMucxgd9efmW/Ys9+yRVUp8sA0qz22eg==;J/o66mrXozuWjGwS3p+Hew=="
+secured: "R8WKiduq5kqmOu77KOrqTcTXFuqcKdmeovP0CqrcwqGyJ4vYVgesmKZ9BlQ/HLkuHhf9DPqV4X3P5T+80oCo0SZ1P1m2ugyggxZE7/gEMOROGwqIOxBrw2xyuypI4esGfFXJ0oqvQXESwO5o9lm2P4v+Ko3Ji+U42KYvG6jetLJCqt9vlx2fSh6UFQdsg/xjmXFys18VptrDScxST9obuoNSN7a4kWBv9JezsJcMPEPQUoUweJmnHscI/7TolRadaYrAK98lJriKXcQLVcTSP+cQXlymITQX4BGKNvYWk6zS6hukhlI8K8+1Sy+isH7rdhzBY/9E0I0dM6uWHlsW4yPlM6SIlFVMnWnUvdT3EPHFYdtBgHwnDD+r7cnEQ5YoY4bxGd/9drSnVjGWujDnd5l9c4AIu7LQVAy8brG7KuQ=;VcEpIdBVgZIphFfbxb2a1w=="
 ---
 

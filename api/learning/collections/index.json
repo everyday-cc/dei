@@ -59,7 +59,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2022-10-28T15:22:29-07:00",
-          "heat": 82,
+          "heat": 81,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
@@ -90,7 +90,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2022-10-28T16:31:37-07:00",
-          "heat": 81,
+          "heat": 80,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/5AYnJwp5184/maxresdefault.jpg",
@@ -121,7 +121,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2022-10-28T16:31:58-07:00",
-          "heat": 81,
+          "heat": 80,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CHNDLbKVq7U/maxresdefault.jpg",
@@ -140,7 +140,7 @@
         }
       ],
       "size": 9,
-      "heat": 97,
+      "heat": 96,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Q1TpHNh8RzQ/maxresdefault.jpg",
@@ -154,6 +154,199 @@
       "topics": [
         "DEI",
         "Allyship"
+      ]
+    },
+    {
+      "path": "_learning/collections/time-women-of-the-year.md",
+      "title": "Women of the Year",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/collections/time-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/collections/time-women-of-the-year/",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/time-zahra-joya-women-of-the-year.md",
+          "title": "Zahra Joya: Women of the Year",
+          "excerpt": "\"Zahra Joya was 5 years old when the Taliban took power in Afghanistan and banned girls’ education. Undeterred, she dressed in boys’ clothing and walked two hours to and from school every day. After the U.S. invasion in 2001, she dropped her disguise, finished her schooling, and enrolled as a law student,",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/time-zahra-joya-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/learning/videos/time-zahra-joya-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=91HzPwWo7Rc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91HzPwWo7Rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M46S",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2022-03-03T13:27:37-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/91HzPwWo7Rc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_learning/videos/time-jennie-joseph-women-of-the-year.md",
+          "title": "Jennie Joseph: Women of the Year",
+          "excerpt": "Treating her patients well is not the only reason that Joseph has become one of the pre-eminent advocates of—and a national role model for—midwifery in the U.S. Her philosophy, which she calls the “JJ Way,” is much more ambitious. It’s about leveraging the power of midwifery to support a pregnant person",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/time-jennie-joseph-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/learning/videos/time-jennie-joseph-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=eL7F5P98Ayk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eL7F5P98Ayk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M11S",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2022-03-03T14:33:18-08:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/eL7F5P98Ayk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_learning/videos/time-michaela-jae-rodriguez-women-of-the-year.md",
+          "title": "Michaela Jaé Rodriguez: Women of the Year",
+          "excerpt": "In January, Michaela Jaé Rodriguez made history as the first trans actor to win a Golden Globe. The 31-year-old won best actress in a TV drama for her role as house mother Blanca Evangelista on Pose, the FX series about New York City’s ’80s and ’90s ball scene. Just six months earlier, Rodriguez had",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/time-michaela-jae-rodriguez-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/learning/videos/time-michaela-jae-rodriguez-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=iNBqfNRWeVg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iNBqfNRWeVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M54S",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2022-03-03T14:45:12-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/iNBqfNRWeVg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_learning/videos/time-kerry-washington-women-of-the-year.md",
+          "title": "Kerry Washington: Women of the Year",
+          "excerpt": "Kerry Washington was an activist long before she became a star. She’s best known for her roles onscreen—particularly D.C. fixer Olivia Pope on Shonda Rhimes’ Scandal, which ran from 2012 to 2018—but after the 2016 election, Washington threw herself into political activism. She spoke at the Los Angeles",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/time-kerry-washington-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/learning/videos/time-kerry-washington-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=VdX7pLivqMg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VdX7pLivqMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M22S",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2022-03-03T14:46:38-08:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/VdX7pLivqMg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/91HzPwWo7Rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
       ]
     },
     {
@@ -581,7 +774,7 @@
           "price": "Free",
           "topics": [
             "DEI",
-            "Implicit Bias"
+            "Bias"
           ]
         }
       ],
@@ -922,7 +1115,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2020-06-09T14:05:13-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/izmkRYbq2Sg/maxresdefault.jpg",
@@ -936,7 +1129,7 @@
           "price": "Free",
           "topics": [
             "DEI",
-            "Implicit Bias"
+            "Bias"
           ]
         },
         {
@@ -967,7 +1160,7 @@
           "price": "Free",
           "topics": [
             "DEI",
-            "Implicit Bias"
+            "Bias"
           ]
         },
         {
@@ -998,7 +1191,7 @@
           "price": "Free",
           "topics": [
             "DEI",
-            "Implicit Bias"
+            "Bias"
           ]
         },
         {
@@ -1029,7 +1222,7 @@
           "price": "Free",
           "topics": [
             "DEI",
-            "Implicit Bias"
+            "Bias"
           ]
         }
       ],
@@ -1047,7 +1240,7 @@
       "type": "collection",
       "topics": [
         "DEI",
-        "Implicit Bias"
+        "Bias"
       ]
     },
     {
@@ -1149,7 +1342,7 @@
           "price": "Free",
           "topics": [
             "DEI",
-            "Implicit Bias"
+            "Bias"
           ]
         }
       ],

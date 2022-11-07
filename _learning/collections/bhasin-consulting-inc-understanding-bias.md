@@ -22,7 +22,7 @@ items:
 
 topics:
   - DEI
-  - Implicit Bias
+  - Bias
 
 images:
   - url: https://i.ytimg.com/vi/izmkRYbq2Sg/maxresdefault.jpg

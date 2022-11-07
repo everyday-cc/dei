@@ -121,7 +121,7 @@
       "price": "Free",
       "topics": [
         "DEI",
-        "Implicit Bias"
+        "Bias"
       ]
     },
     {
@@ -152,7 +152,7 @@
       "price": "Free",
       "topics": [
         "DEI",
-        "Implicit Bias"
+        "Bias"
       ]
     },
     {
@@ -169,7 +169,7 @@
         "domain": "bhasinconsulting.com"
       },
       "publishedDateTime": "2022-10-28T16:40:04-07:00",
-      "heat": 81,
+      "heat": 80,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bPF6E3oM-Ck/maxresdefault.jpg",

@@ -2,7 +2,7 @@
 title: "Foundations of Allyship"
 excerpt: ""
 type: collection
-heat: 97
+heat: 96
 
 provider:
   name: bhasin consulting inc.

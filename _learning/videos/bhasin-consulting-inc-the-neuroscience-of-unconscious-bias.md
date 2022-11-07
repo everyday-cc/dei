@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M22S
 publishedDateTime: 2020-06-09T21:05:13Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/izmkRYbq2Sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -16,7 +16,7 @@ provider:
 
 topics:
   - DEI
-  - Implicit Bias
+  - Bias
 
 images:
   - url: https://i.ytimg.com/vi/izmkRYbq2Sg/maxresdefault.jpg
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TieUyElV8g9sxB+Fg1G1++xoEbZ/rAe75pIZDOfuckbMs1btIinBf+s6UX9GrZNR9vW2+BKId+jfDSZcd0Jdrl3bEQWuhCmx9SKwph+RYfiJwUAqzlGu6DCi0n4U3sXo0DyRmzyrz7BYWTnoqXCt6SPIH81eb+LZ9UGgs5ShlVi3dZOonitDsgkbhQ+VrpZbohU+2SdHdo8EYLa2oFXGgQu73hleaRt87tirwTnZH/XBkYVNI1LzzFSrqX4CMWMbm3EZqy6vgFIxPk05ZpOWUkxBHGlbCCvfLISBpKNqqDmmmpfUhHe0zdaM/TuCvqWSe6pWTmApX6hwORgo0fy3sEXrClhYVWuQCOa9Lwo8BESo5OqrVfSp5vjRsKBx0XY9Hv/Smgg4038rrB36VvBZDA==;BG8YfJATWn1+Jzh1OkYWxg=="
+secured: "tCyPD6LUmZbdI4NHvH/ta9W7fQwuQ74nk07m/YLz6CreLhLjLNmTPVN3BUbXQsIlFDO479+qA6BRv72LZ2s55IcGmpopJgwK2z2tSnT0s4+eIYboajUt3pToUy857wSKsadXGGhM1cR0BpLyCpxPvq1IPAUtiSiYsZCwfBurFluBCi1dL6QOmjhUkuQVFbHbGPraWk9zSbEKFNbrNuoCfCVPhOF3Kd9W2cQdNoNFdG91ydYApeO9LxNcOpW3g64BbsJhWQuayaOOL8269f/Heylq9R09GSzkmmJu361I8ojqypIWmCzsQm7AOZ4mVmhEcEXYiZ8UUttEaP3lOI1N0/CiLmdNykp8rlFJgWUMC3GQUFiU1ZBnSZU6L98zOaQYKmToZDQjlRvevWGazhDEdHg9UWNUCK7GOx5LXTYWi2I=;R5dpwMKQyQiAvUwWrhMY1Q=="
 ---
 
