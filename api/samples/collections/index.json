@@ -1,0 +1,377 @@
+{
+  "title": "Collections",
+  "path": "_samples/collections",
+  "page": 1,
+  "value": [
+    {
+      "path": "_samples/collections/time-women-of-the-year-by-time.md",
+      "title": "Women of the Year by TIME",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/collections/time-women-of-the-year-by-time/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/collections/time-women-of-the-year-by-time/",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_samples/time-zahra-joya-women-of-the-year.md",
+          "title": "Zahra Joya: Women of the Year",
+          "excerpt": "\"Zahra Joya was 5 years old when the Taliban took power in Afghanistan and banned girls’ education. Undeterred, she dressed in boys’ clothing and walked two hours to and from school every day. After the U.S. invasion in 2001, she dropped her disguise, finished her schooling, and enrolled as a law student,",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-zahra-joya-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/time-zahra-joya-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=91HzPwWo7Rc",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91HzPwWo7Rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2022-03-03T13:27:37-08:00",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/91HzPwWo7Rc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/time-jennie-joseph-women-of-the-year.md",
+          "title": "Jennie Joseph: Women of the Year",
+          "excerpt": "Treating her patients well is not the only reason that Joseph has become one of the pre-eminent advocates of—and a national role model for—midwifery in the U.S. Her philosophy, which she calls the “JJ Way,” is much more ambitious. It’s about leveraging the power of midwifery to support a pregnant person",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-jennie-joseph-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/time-jennie-joseph-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=eL7F5P98Ayk",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eL7F5P98Ayk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2022-03-03T14:33:18-08:00",
+          "heat": 65,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/eL7F5P98Ayk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/time-michaela-jae-rodriguez-women-of-the-year.md",
+          "title": "Michaela Jaé Rodriguez: Women of the Year",
+          "excerpt": "In January, Michaela Jaé Rodriguez made history as the first trans actor to win a Golden Globe. The 31-year-old won best actress in a TV drama for her role as house mother Blanca Evangelista on Pose, the FX series about New York City’s ’80s and ’90s ball scene. Just six months earlier, Rodriguez had",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-michaela-jae-rodriguez-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/time-michaela-jae-rodriguez-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=iNBqfNRWeVg",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iNBqfNRWeVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2022-03-03T14:45:12-08:00",
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/iNBqfNRWeVg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/time-kerry-washington-women-of-the-year.md",
+          "title": "Kerry Washington: Women of the Year",
+          "excerpt": "Kerry Washington was an activist long before she became a star. She’s best known for her roles onscreen—particularly D.C. fixer Olivia Pope on Shonda Rhimes’ Scandal, which ran from 2012 to 2018—but after the 2016 election, Washington threw herself into political activism. She spoke at the Los Angeles",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-kerry-washington-women-of-the-year/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/time-kerry-washington-women-of-the-year/",
+          "originalUrl": "https://youtube.com/watch?v=VdX7pLivqMg",
+          "provider": {
+            "name": "TIME",
+            "domain": "time.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VdX7pLivqMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2022-03-03T14:46:38-08:00",
+          "heat": 80,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/VdX7pLivqMg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/91HzPwWo7Rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/collections/fortune-most-powerful-women-by-fortune.md",
+      "title": "Most Powerful Women by Fortune",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/collections/fortune-most-powerful-women-by-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/collections/fortune-most-powerful-women-by-fortune/",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_samples/fortune-30-minutes-with-marissa-mayer.md",
+          "title": "30 minutes with Marissa Mayer",
+          "excerpt": "In her first interview since becoming Yahoo's CEO, Marissa Mayer talks about family, iPhones and fantasy football.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-30-minutes-with-marissa-mayer/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-30-minutes-with-marissa-mayer/",
+          "originalUrl": "https://youtube.com/watch?v=AewAebQEnds",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AewAebQEnds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:33:59-08:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/AewAebQEnds/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/fortune-mayers-mobile-strategy-for-yahoo.md",
+          "title": "Mayer's mobile strategy for Yahoo",
+          "excerpt": "Marissa Mayer says Yahoo won't do maps, but will focus on news, sports and apps to win on mobile devices.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-mayers-mobile-strategy-for-yahoo/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-mayers-mobile-strategy-for-yahoo/",
+          "originalUrl": "https://youtube.com/watch?v=cyWOqobUPvw",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cyWOqobUPvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:34:16-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/cyWOqobUPvw/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/fortune-marissa-mayer-baby-is-easy-yahoos-fun.md",
+          "title": "Marissa Mayer: Baby is easy, Yahoo's fun",
+          "excerpt": "Yahoo CEO Marissa Mayer says having a new baby is way easier than people made it out to be.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-marissa-mayer-baby-is-easy-yahoos-fun/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-marissa-mayer-baby-is-easy-yahoos-fun/",
+          "originalUrl": "https://youtube.com/watch?v=ZExA0kud9a8",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZExA0kud9a8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:34:30-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ZExA0kud9a8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/fortune-sheryl-sandberg-what-i-learned-from-google.md",
+          "title": "Sheryl Sandberg: What I learned from Google",
+          "excerpt": "Facebook COO Sheryl Sandberg talks about her experience in growing two of the largest tech businesses in Silicon Valley.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-sheryl-sandberg-what-i-learned-from-google/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-sheryl-sandberg-what-i-learned-from-google/",
+          "originalUrl": "https://youtube.com/watch?v=7TWI8L2oWYo",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7TWI8L2oWYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:41:10-08:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7TWI8L2oWYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        }
+      ],
+      "size": 30,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AewAebQEnds/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    }
+  ]
+}
