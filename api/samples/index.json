@@ -1,0 +1,266 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 1,
+  "value": [
+    {
+      "path": "_samples/time-amal-clooney-women-of-the-year.md",
+      "title": "Amal Clooney: Women of the Year",
+      "excerpt": "\"Amal Clooney doesn’t like talking about herself. Sit with the 44-year-old lawyer, and she’ll take you on a tour of some of the worst places in the world, where despots reign and standing up for your rights can get you killed. Yet, inevitably, she finds women in these places who want to challenge power,",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-amal-clooney-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-amal-clooney-women-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=5Cg9HnDInbs",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Cg9HnDInbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-03T14:49:45-08:00",
+      "heat": 386,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5Cg9HnDInbs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/time-kerry-washington-women-of-the-year.md",
+      "title": "Kerry Washington: Women of the Year",
+      "excerpt": "Kerry Washington was an activist long before she became a star. She’s best known for her roles onscreen—particularly D.C. fixer Olivia Pope on Shonda Rhimes’ Scandal, which ran from 2012 to 2018—but after the 2016 election, Washington threw herself into political activism. She spoke at the Los Angeles",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-kerry-washington-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-kerry-washington-women-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=VdX7pLivqMg",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VdX7pLivqMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-03T14:46:38-08:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VdX7pLivqMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/time-times-women-of-the-year-ask-billion-dollar-questions.md",
+      "title": "TIME's Women of the Year Ask Billion Dollar Questions",
+      "excerpt": "TIME's 2022 Women of the Year pose the questions that they'd like to see answered (with the help of a billion dollars).   Creating a better future for women means building bridges—across generations, communities, and borders. These extraordinary leaders are working toward a more equal world.   Read more",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-times-women-of-the-year-ask-billion-dollar-questions/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-times-women-of-the-year-ask-billion-dollar-questions/",
+      "originalUrl": "https://youtube.com/watch?v=1_5abkAF810",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1_5abkAF810\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-07T08:25:58-08:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1_5abkAF810/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/time-jennie-joseph-women-of-the-year.md",
+      "title": "Jennie Joseph: Women of the Year",
+      "excerpt": "Treating her patients well is not the only reason that Joseph has become one of the pre-eminent advocates of—and a national role model for—midwifery in the U.S. Her philosophy, which she calls the “JJ Way,” is much more ambitious. It’s about leveraging the power of midwifery to support a pregnant person",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-jennie-joseph-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-jennie-joseph-women-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=eL7F5P98Ayk",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eL7F5P98Ayk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-03T14:33:18-08:00",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eL7F5P98Ayk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/time-michaela-jae-rodriguez-women-of-the-year.md",
+      "title": "Michaela Jaé Rodriguez: Women of the Year",
+      "excerpt": "In January, Michaela Jaé Rodriguez made history as the first trans actor to win a Golden Globe. The 31-year-old won best actress in a TV drama for her role as house mother Blanca Evangelista on Pose, the FX series about New York City’s ’80s and ’90s ball scene. Just six months earlier, Rodriguez had",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-michaela-jae-rodriguez-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-michaela-jae-rodriguez-women-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=iNBqfNRWeVg",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iNBqfNRWeVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-03T14:45:12-08:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iNBqfNRWeVg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/time-tracy-chou-women-of-the-year.md",
+      "title": "Tracy Chou: Women of the Year",
+      "excerpt": "Three years ago, when Tracy Chou was between meetings or even while brushing her teeth, she would frequently open her phone and gravitate to Twitter. “I was a little bit addicted,” admits the 35-year-old founder, software engineer, and advocate for diversity in the tech industry.  As an Asian American",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-tracy-chou-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-tracy-chou-women-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=VkJiFxukzfw",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VkJiFxukzfw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-03T14:47:56-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VkJiFxukzfw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/time-zahra-joya-women-of-the-year.md",
+      "title": "Zahra Joya: Women of the Year",
+      "excerpt": "\"Zahra Joya was 5 years old when the Taliban took power in Afghanistan and banned girls’ education. Undeterred, she dressed in boys’ clothing and walked two hours to and from school every day. After the U.S. invasion in 2001, she dropped her disguise, finished her schooling, and enrolled as a law student,",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/time-zahra-joya-women-of-the-year/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/time-zahra-joya-women-of-the-year/",
+      "originalUrl": "https://youtube.com/watch?v=91HzPwWo7Rc",
+      "provider": {
+        "name": "TIME",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91HzPwWo7Rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2022-03-03T13:27:37-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/91HzPwWo7Rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    }
+  ]
+}
