@@ -263,6 +263,43 @@
       ]
     },
     {
+      "path": "_samples/fortune-naomi-campbell-interviewed-by-nancy-gibbs-i-fortune.md",
+      "title": "Naomi Campbell Interviewed by Nancy Gibbs I Fortune",
+      "excerpt": "Naomi Campbell is a supermodel, actress, and businesswoman.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide circulation of more than 1 million and a readership of nearly 5 million, with",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-naomi-campbell-interviewed-by-nancy-gibbs-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-naomi-campbell-interviewed-by-nancy-gibbs-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=vRm00mxwveo",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vRm00mxwveo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T13:46:39-07:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vRm00mxwveo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
       "path": "_samples/time-times-women-of-the-year-ask-billion-dollar-questions.md",
       "title": "TIME's Women of the Year Ask Billion Dollar Questions",
       "excerpt": "TIME's 2022 Women of the Year pose the questions that they'd like to see answered (with the help of a billion dollars).   Creating a better future for women means building bridges—across generations, communities, and borders. These extraordinary leaders are working toward a more equal world.   Read more",
@@ -331,6 +368,191 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/collections/fortune-most-powerful-women-by-fortune.md",
+      "title": "Most Powerful Women by Fortune",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/collections/fortune-most-powerful-women-by-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/collections/fortune-most-powerful-women-by-fortune/",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_samples/fortune-30-minutes-with-marissa-mayer.md",
+          "title": "30 minutes with Marissa Mayer",
+          "excerpt": "In her first interview since becoming Yahoo's CEO, Marissa Mayer talks about family, iPhones and fantasy football.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-30-minutes-with-marissa-mayer/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-30-minutes-with-marissa-mayer/",
+          "originalUrl": "https://youtube.com/watch?v=AewAebQEnds",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AewAebQEnds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:33:59-08:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/AewAebQEnds/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/fortune-mayers-mobile-strategy-for-yahoo.md",
+          "title": "Mayer's mobile strategy for Yahoo",
+          "excerpt": "Marissa Mayer says Yahoo won't do maps, but will focus on news, sports and apps to win on mobile devices.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-mayers-mobile-strategy-for-yahoo/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-mayers-mobile-strategy-for-yahoo/",
+          "originalUrl": "https://youtube.com/watch?v=cyWOqobUPvw",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cyWOqobUPvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:34:16-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/cyWOqobUPvw/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/fortune-marissa-mayer-baby-is-easy-yahoos-fun.md",
+          "title": "Marissa Mayer: Baby is easy, Yahoo's fun",
+          "excerpt": "Yahoo CEO Marissa Mayer says having a new baby is way easier than people made it out to be.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-marissa-mayer-baby-is-easy-yahoos-fun/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-marissa-mayer-baby-is-easy-yahoos-fun/",
+          "originalUrl": "https://youtube.com/watch?v=ZExA0kud9a8",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZExA0kud9a8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:34:30-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ZExA0kud9a8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        },
+        {
+          "path": "_samples/fortune-sheryl-sandberg-what-i-learned-from-google.md",
+          "title": "Sheryl Sandberg: What I learned from Google",
+          "excerpt": "Facebook COO Sheryl Sandberg talks about her experience in growing two of the largest tech businesses in Silicon Valley.",
+          "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-sheryl-sandberg-what-i-learned-from-google/index.json",
+          "webUrl": "https://everyday.cc/dei/sample/fortune-sheryl-sandberg-what-i-learned-from-google/",
+          "originalUrl": "https://youtube.com/watch?v=7TWI8L2oWYo",
+          "provider": {
+            "name": "Fortune",
+            "domain": "fortune.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7TWI8L2oWYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "publishedDateTime": "2012-11-29T11:41:10-08:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7TWI8L2oWYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "topics": [
+            "DEI",
+            "Women in the Workplace"
+          ]
+        }
+      ],
+      "size": 30,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AewAebQEnds/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "topics": [
         "DEI",
         "Women in the Workplace"
@@ -411,6 +633,43 @@
       ]
     },
     {
+      "path": "_samples/fortune-building-a-legacy-charlene-de-carvalho-heineken-interviewed-by-pattie-sellers-i-fortune.md",
+      "title": "Building A Legacy: Charlene de Carvalho-Heineken Interviewed by Pattie Sellers I Fortune",
+      "excerpt": "Charlene Heineken knows all too well about “Finding Your New Power.” At 47, she inherited a 25% stake in her father’s company and decided to do something that she had never anticipated: learn how to lead. In a rare interview, she talks about her storied life and how she is now helping to build Heineken",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-building-a-legacy-charlene-de-carvalho-heineken-interviewed-by-pattie-sellers-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-building-a-legacy-charlene-de-carvalho-heineken-interviewed-by-pattie-sellers-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=by9cSSbU8ng",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/by9cSSbU8ng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T12:51:02-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/by9cSSbU8ng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
       "path": "_samples/time-zahra-joya-women-of-the-year.md",
       "title": "Zahra Joya: Women of the Year",
       "excerpt": "\"Zahra Joya was 5 years old when the Taliban took power in Afghanistan and banned girls’ education. Undeterred, she dressed in boys’ clothing and walked two hours to and from school every day. After the U.S. invasion in 2001, she dropped her disguise, finished her schooling, and enrolled as a law student,",
@@ -446,6 +705,525 @@
         "DEI",
         "Women in the Workplace"
       ]
+    },
+    {
+      "path": "_samples/fortune-30-minutes-with-marissa-mayer.md",
+      "title": "30 minutes with Marissa Mayer",
+      "excerpt": "In her first interview since becoming Yahoo's CEO, Marissa Mayer talks about family, iPhones and fantasy football.",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-30-minutes-with-marissa-mayer/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-30-minutes-with-marissa-mayer/",
+      "originalUrl": "https://youtube.com/watch?v=AewAebQEnds",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AewAebQEnds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2012-11-29T11:33:59-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AewAebQEnds/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-sheryl-sandberg-what-i-learned-from-google.md",
+      "title": "Sheryl Sandberg: What I learned from Google",
+      "excerpt": "Facebook COO Sheryl Sandberg talks about her experience in growing two of the largest tech businesses in Silicon Valley.",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-sheryl-sandberg-what-i-learned-from-google/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-sheryl-sandberg-what-i-learned-from-google/",
+      "originalUrl": "https://youtube.com/watch?v=7TWI8L2oWYo",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7TWI8L2oWYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2012-11-29T11:41:10-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7TWI8L2oWYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-annie-lennox-obe-interviewed-by-pattie-sellers-i-fortune.md",
+      "title": "Annie Lennox OBE Interviewed by Pattie Sellers I Fortune",
+      "excerpt": "Annie Lennox OBE is a singer-songwriter, activist, and philanthropist.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide circulation of more than 1 million and a readership of nearly 5",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-annie-lennox-obe-interviewed-by-pattie-sellers-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-annie-lennox-obe-interviewed-by-pattie-sellers-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=4EHqxFFFVJI",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4EHqxFFFVJI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T13:11:39-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4EHqxFFFVJI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-in-my-shoes-tamara-mellon-interviewed-by-pattie-sellers-i-fortune.md",
+      "title": "In My Shoes - Tamara Mellon Interviewed by Pattie Sellers I Fortune",
+      "excerpt": "Tamara Mellon oversaw the massive growth of Jimmy Choo, exited in a whirlwind of controversy, and saw her own line of shoes and apparel go bust. Now the fashion entrepreneur has relaunched and rethought success, and she’s with us to talk about her path to resilience.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-in-my-shoes-tamara-mellon-interviewed-by-pattie-sellers-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-in-my-shoes-tamara-mellon-interviewed-by-pattie-sellers-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=6kbXT3Nesok",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kbXT3Nesok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T12:25:33-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6kbXT3Nesok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-one-on-one-samantha-cristoforetti-interviewed-by-trish-halpin-i-fortune.md",
+      "title": "One on One: Samantha Cristoforetti Interviewed by Trish Halpin I Fortune",
+      "excerpt": "Samantha Cristoforetti in an Astronaut with the European Space Agency.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide circulation of more than 1 million and a readership of nearly 5",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-one-on-one-samantha-cristoforetti-interviewed-by-trish-halpin-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-one-on-one-samantha-cristoforetti-interviewed-by-trish-halpin-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=l2g_XnYUbs8",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l2g_XnYUbs8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T11:14:43-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l2g_XnYUbs8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-wwe-launches-new-female-superstar-action-figures-i-fortune.md",
+      "title": "WWE Launches New Female Superstar Action Figures I Fortune",
+      "excerpt": "Paul \"Triple H\" Levesque and Stephanie McMahon gave us an inside look at the figures, which include fashion accessories for the ring and the red carpet.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-wwe-launches-new-female-superstar-action-figures-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-wwe-launches-new-female-superstar-action-figures-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=rQZ-D31moYY",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rQZ-D31moYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-07-20T12:18:20-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rQZ-D31moYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-an-in-depth-conversation-with-cbs-news-president-susan-zirinsky.md",
+      "title": "An In-Depth Conversation with CBS News President Susan Zirinsky",
+      "excerpt": "CBS News President Susan Zirinsky talks to Pattie Sellers at Fortune's Most Powerful Women dinner in New York City on April 11th, 2019.   Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-an-in-depth-conversation-with-cbs-news-president-susan-zirinsky/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-an-in-depth-conversation-with-cbs-news-president-susan-zirinsky/",
+      "originalUrl": "https://youtube.com/watch?v=9Qxyl9JH4W0",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Qxyl9JH4W0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2019-04-12T14:07:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9Qxyl9JH4W0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-discussion-trade-i-fortune.md",
+      "title": "Discussion: Trade I Fortune",
+      "excerpt": "Panel featuring Inga Ernstsone, Ambassador, Permanent Representative of Latvia, and Chair, Committee on Budget, Finance, and Administration, WTO / Tina Fordham, Managing Director and Chief Political Analyst, Citigroup / Miriam González Durántez, Partner, Dechert LLP.  Moderated by Ngaire Woods, Inaugural",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-discussion-trade-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-discussion-trade-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=EAhDTNPtDWI",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EAhDTNPtDWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T14:14:59-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EAhDTNPtDWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-geisha-williams-is-the-first-latina-ceo-on-the-fortune-500-i-fortune.md",
+      "title": "Geisha Williams is the First Latina CEO on the Fortune 500 I Fortune",
+      "excerpt": "Geisha Williams, a Cuban immigrant, became the CEO of Pacific Gas and Electric Company (PG&E) in March 2017.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide circulation of more than 1",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-geisha-williams-is-the-first-latina-ceo-on-the-fortune-500-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-geisha-williams-is-the-first-latina-ceo-on-the-fortune-500-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=kVfuHyU27vY",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVfuHyU27vY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-15T10:03:28-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVfuHyU27vY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-helena-foulkes-first-interview-as-ceo-of-hudsons-bay-corporation-i-fortune.md",
+      "title": "Helena Foulkes: First Interview as CEO of Hudson's Bay Corporation I Fortune",
+      "excerpt": "Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide circulation of more than 1 million and a readership of nearly 5 million, with major franchises including the FORTUNE 500 and the FORTUNE",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-helena-foulkes-first-interview-as-ceo-of-hudsons-bay-corporation-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-helena-foulkes-first-interview-as-ceo-of-hudsons-bay-corporation-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=ajRY2t26aVo",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ajRY2t26aVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2018-05-15T10:06:52-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ajRY2t26aVo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-marissa-mayer-baby-is-easy-yahoos-fun.md",
+      "title": "Marissa Mayer: Baby is easy, Yahoo's fun",
+      "excerpt": "Yahoo CEO Marissa Mayer says having a new baby is way easier than people made it out to be.",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-marissa-mayer-baby-is-easy-yahoos-fun/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-marissa-mayer-baby-is-easy-yahoos-fun/",
+      "originalUrl": "https://youtube.com/watch?v=ZExA0kud9a8",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZExA0kud9a8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2012-11-29T11:34:30-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZExA0kud9a8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-tory-burch-how-to-pick-a-business-partner-fortune.md",
+      "title": "Tory Burch: How To Pick a Business Partner | Fortune",
+      "excerpt": "After a year of legal disputes between fashion designer Tory Burch and ex-husband Chris Burch, the two reportedly reached an agreement to settle all pending legal claims regarding the couple's investments in the Tory Burch brand.",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-tory-burch-how-to-pick-a-business-partner-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-tory-burch-how-to-pick-a-business-partner-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=rRtfWT0UBps",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rRtfWT0UBps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2013-01-21T09:25:36-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rRtfWT0UBps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-a-mentor-can-have-a-lasting-impact-on-your-career-i-fortune.md",
+      "title": "A Mentor Can Have a Lasting Impact on Your Career I Fortune",
+      "excerpt": "The MPW Mentorship program rewards ambitious entrepreneurs with career changing opportunities.  Subscribe to Fortune -  http://www.youtube.com/subscription_center?add_user=FortuneMagazineVideo  FORTUNE is a global leader in business journalism with a worldwide circulation of more than 1 million and a",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-a-mentor-can-have-a-lasting-impact-on-your-career-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-a-mentor-can-have-a-lasting-impact-on-your-career-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=06EnZSvnDM4",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/06EnZSvnDM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-07-28T08:47:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/06EnZSvnDM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
+    },
+    {
+      "path": "_samples/fortune-discussion-technology-hubs-i-fortune.md",
+      "title": "Discussion: Technology Hubs I Fortune",
+      "excerpt": "Panel featuring Karoli Hindriks, Founder and CEO, Jobbatical / Marta Krupinska, Co-founder and General Manager, Azimo / Demet Mutlu, Founder, Trendyol / Ida Tin, Co-founder and CEO, Clue.   Moderated by Michal Lev-Ram.  FORTUNE is a global leader in business journalism with a worldwide circulation of",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/samples/fortune-discussion-technology-hubs-i-fortune/index.json",
+      "webUrl": "https://everyday.cc/dei/sample/fortune-discussion-technology-hubs-i-fortune/",
+      "originalUrl": "https://youtube.com/watch?v=dfpyH8suuEc",
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/dei/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dfpyH8suuEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "publishedDateTime": "2017-06-16T14:19:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dfpyH8suuEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "DEI",
+        "Women in the Workplace"
+      ]
     }
-  ]
+  ],
+  "nextPage": 2
 }
