@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/bhasin-consulting-inc-3-myths-about-the-concept-of-psychological-safety.md",
-      "title": "3 Myths About the Concept of Psychological Safety",
-      "excerpt": "Psychological safety is a relatively new concept, especially in the workplace, and there are several myths about what psychological safety is that need to be debunked.   In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin breaks down three common misconceptions about psychological",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-3-myths-about-the-concept-of-psychological-safety/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-3-myths-about-the-concept-of-psychological-safety/",
-      "originalUrl": "https://youtube.com/watch?v=ML1p4rLnc5c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ML1p4rLnc5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-08-18T06:47:05-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ML1p4rLnc5c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
       "path": "_learning/videos/bhasin-consulting-inc-3-ways-hr-processes-dont-support-women-of-color.md",
       "title": "3 Ways HR Processes Don’t Support Women of Color",
       "excerpt": "In my recent discussion with Deepa Purushothaman, a renowned inclusion and leadership speaker and expert, we spoke at length about the following statement: HR processes don’t support Women of Color. It’s a provocative statement, but in this clip from our talk, Deepa explains why this is the case.   Watch",
@@ -47,10 +17,40 @@
         "domain": "bhasinconsulting.com"
       },
       "publishedDateTime": "2022-11-04T04:04:48-07:00",
-      "heat": 130,
+      "heat": 131,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Kn5GyonbOiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust.md",
+      "title": "The Relationship Between Psychological Safety and Trust",
+      "excerpt": "Although the phrases “psychological safety” and “trust” are often used together or interchangeably in discussions around workplace inclusion, they are different concepts. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin shares definitions of both concepts, explains why they go",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust/",
+      "originalUrl": "https://youtube.com/watch?v=xMBhMmpzYqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xMBhMmpzYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M36S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-08-18T06:54:45-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xMBhMmpzYqQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -119,7 +119,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2022-10-28T15:22:29-07:00",
-          "heat": 81,
+          "heat": 80,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
@@ -217,37 +217,6 @@
       ]
     },
     {
-      "path": "_learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace.md",
-      "title": "What Can Leaders do to Combat Micro-Inequities in the Workplace?",
-      "excerpt": "I had the privilege of chatting with Minda Harts, an award-winning speaker and expert on building racially inclusive workplaces, about what leaders and HR professionals can do to create work environments that help to address biases and prejudices that impact people’s experiences.   In this clip, Minda",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/",
-      "originalUrl": "https://youtube.com/watch?v=q5fAcfEMQws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5fAcfEMQws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-10-28T15:22:29-07:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI",
-        "Allyship"
-      ]
-    },
-    {
       "path": "_learning/videos/bhasin-consulting-inc-what-is-allyship-and-why-is-allyship-important.md",
       "title": "What is Allyship and Why is Allyship Important?",
       "excerpt": "There are many ways to provide allyship to marginalized groups from being an advocate and supporter to being a mentor or sponsor. In this video, DEI expert Ritu Bhasin discusses the importance of allyship and how to be an effective ally.  - - - - -   bhasin consulting inc. (bci) is a world-renowned full-service",
@@ -261,7 +230,7 @@
         "domain": "bhasinconsulting.com"
       },
       "publishedDateTime": "2022-10-28T16:33:05-07:00",
-      "heat": 81,
+      "heat": 83,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hmN1_Bsb0FE/maxresdefault.jpg",
@@ -338,36 +307,6 @@
       "topics": [
         "DEI",
         "Allyship"
-      ]
-    },
-    {
-      "path": "_learning/videos/bhasin-consulting-inc-how-racialized-trauma-lives-in-white-bodies-what-to-do-about-it.md",
-      "title": "How Racialized Trauma Lives in White Bodies & What to Do About it",
-      "excerpt": "To dig deeper into anti-racism concepts, bci's CEO and Founder Ritu Bhasin hosted a conversation with a very special guest: Resmaa Menakem, author of the New York Times bestseller My Grandmother’s Hands and the book The Quaking of America: An Embodied Guide to Navigating Our Nation’s Upheaval and Racial",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-how-racialized-trauma-lives-in-white-bodies-what-to-do-about-it/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-how-racialized-trauma-lives-in-white-bodies-what-to-do-about-it/",
-      "originalUrl": "https://youtube.com/watch?v=KGKbKfXWTMM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KGKbKfXWTMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M16S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-10-24T15:26:06-07:00",
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KGKbKfXWTMM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI"
       ]
     },
     {
@@ -672,6 +611,37 @@
       "price": "Free",
       "topics": [
         "DEI"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace.md",
+      "title": "What Can Leaders do to Combat Micro-Inequities in the Workplace?",
+      "excerpt": "I had the privilege of chatting with Minda Harts, an award-winning speaker and expert on building racially inclusive workplaces, about what leaders and HR professionals can do to create work environments that help to address biases and prejudices that impact people’s experiences.   In this clip, Minda",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/",
+      "originalUrl": "https://youtube.com/watch?v=q5fAcfEMQws",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5fAcfEMQws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M20S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-10-28T15:22:29-07:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI",
+        "Allyship"
       ]
     },
     {
@@ -1292,7 +1262,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2022-07-07T07:52:02-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/gRspt177JQg/maxresdefault.jpg",
@@ -1440,7 +1410,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2020-06-09T14:05:13-07:00",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/izmkRYbq2Sg/maxresdefault.jpg",
@@ -1566,6 +1536,85 @@
       "topics": [
         "DEI",
         "Bias"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-the-neuroscience-of-unconscious-bias.md",
+      "title": "The Neuroscience of Unconscious Bias",
+      "excerpt": "It takes less than a second for the human brain to sort other people into “like me” and “not like me” based on their age, race/ethnoculture, gender and more. In this video, Ritu Bhasin discusses the neuroscience of unconscious bias, the reptilian brain and why humans are hardwired to prefer “sameness”",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-neuroscience-of-unconscious-bias/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-neuroscience-of-unconscious-bias/",
+      "originalUrl": "https://youtube.com/watch?v=izmkRYbq2Sg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/izmkRYbq2Sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M22S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2020-06-09T14:05:13-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/izmkRYbq2Sg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI",
+        "Bias"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-psychological-safety-trust-belonging-and-authenticity-are-critical-for-workplace-inclusion.md",
+      "title": "Psychological Safety, Trust, Belonging and Authenticity are Critical for Workplace Inclusion",
+      "excerpt": "In order to create inclusive workplace cultures, leaders must cultivate psychological safety, trust, belonging and authenticity as part of their organizational values. In this video, bci CEO and DEI expert, Ritu Bhasin explains the importance of this suite of experiences and how they impact inclusion",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-psychological-safety-trust-belonging-and-authenticity-are-critical-for-workplace-inclusion/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-psychological-safety-trust-belonging-and-authenticity-are-critical-for-workplace-inclusion/",
+      "originalUrl": "https://youtube.com/watch?v=gRspt177JQg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gRspt177JQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-07-07T07:52:02-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gRspt177JQg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI"
+      ]
+    },
+    {
+      "path": "_learning/articles/thoughtco-equity-vs-equality.md",
+      "title": "Equity vs. Equality: What Is the Difference?",
+      "excerpt": "In the context of social systems such as education, politics, and government, the terms equity and equality have similar but slightly different meanings. Equality refers to scenarios in which all segments of society have the same levels of opportunity and support. Equity extends the concept of equality to include providing varying levels of support based on individual need or ability. ",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/articles/thoughtco-equity-vs-equality/index.json",
+      "webUrl": "https://www.thoughtco.com/equity-vs-equality-4767021",
+      "provider": {
+        "name": "ThoughtCo",
+        "domain": "thoughtco.com"
+      },
+      "publishedDateTime": "2022-02-02T17:56:54-08:00",
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "DEI"
       ]
     },
     {
@@ -1839,67 +1888,6 @@
       "heat": 50,
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
-      "path": "_learning/videos/bhasin-consulting-inc-3-reasons-why-you-need-to-be-embodied-if-you-want-to-interrupt-racism.md",
-      "title": "3 Reasons Why You Need to be Embodied if You Want to Interrupt Racism",
-      "excerpt": "As social justice warriors, allies to marginalized communities, leaders and more, so many of us are conscious of the work it takes to interrupt racism. One of the key ways to identify and interrupt racism is by becoming more embodied. In this video, DEI expert Ritu Bhasin discusses the three reasons",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-3-reasons-why-you-need-to-be-embodied-if-you-want-to-interrupt-racism/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-3-reasons-why-you-need-to-be-embodied-if-you-want-to-interrupt-racism/",
-      "originalUrl": "https://youtube.com/watch?v=ZfveI4CCC68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZfveI4CCC68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M37S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2020-04-24T07:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZfveI4CCC68/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI",
-        "Bias"
-      ]
-    },
-    {
-      "path": "_learning/videos/bhasin-consulting-inc-a-must-do-for-cultivating-mental-health-and-wellness.md",
-      "title": "A Must Do for Cultivating Mental Health and Wellness",
-      "excerpt": "When it comes to mental health, self-care is a critical tool in your wellness toolkit! Whether you’re having a good day, a so-so day or a bad day, proactively creating a self-care plan is a must do for managing your mental health.  Not sure not how to make this happen? In this video, bci’s Mental Health",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-a-must-do-for-cultivating-mental-health-and-wellness/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-a-must-do-for-cultivating-mental-health-and-wellness/",
-      "originalUrl": "https://youtube.com/watch?v=wQw29IFYeds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wQw29IFYeds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M12S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-06-30T09:04:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wQw29IFYeds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "DEI"

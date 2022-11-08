@@ -59,7 +59,7 @@
             "domain": "bhasinconsulting.com"
           },
           "publishedDateTime": "2022-10-28T15:22:29-07:00",
-          "heat": 81,
+          "heat": 80,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
@@ -157,37 +157,6 @@
       ]
     },
     {
-      "path": "_learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace.md",
-      "title": "What Can Leaders do to Combat Micro-Inequities in the Workplace?",
-      "excerpt": "I had the privilege of chatting with Minda Harts, an award-winning speaker and expert on building racially inclusive workplaces, about what leaders and HR professionals can do to create work environments that help to address biases and prejudices that impact people’s experiences.   In this clip, Minda",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/",
-      "originalUrl": "https://youtube.com/watch?v=q5fAcfEMQws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5fAcfEMQws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-10-28T15:22:29-07:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI",
-        "Allyship"
-      ]
-    },
-    {
       "path": "_learning/videos/bhasin-consulting-inc-what-is-allyship-and-why-is-allyship-important.md",
       "title": "What is Allyship and Why is Allyship Important?",
       "excerpt": "There are many ways to provide allyship to marginalized groups from being an advocate and supporter to being a mentor or sponsor. In this video, DEI expert Ritu Bhasin discusses the importance of allyship and how to be an effective ally.  - - - - -   bhasin consulting inc. (bci) is a world-renowned full-service",
@@ -201,7 +170,7 @@
         "domain": "bhasinconsulting.com"
       },
       "publishedDateTime": "2022-10-28T16:33:05-07:00",
-      "heat": 81,
+      "heat": 83,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hmN1_Bsb0FE/maxresdefault.jpg",
@@ -391,6 +360,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zy-3daHepjw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI",
+        "Allyship"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace.md",
+      "title": "What Can Leaders do to Combat Micro-Inequities in the Workplace?",
+      "excerpt": "I had the privilege of chatting with Minda Harts, an award-winning speaker and expert on building racially inclusive workplaces, about what leaders and HR professionals can do to create work environments that help to address biases and prejudices that impact people’s experiences.   In this clip, Minda",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-what-can-leaders-do-to-combat-micro-inequities-in-the-workplace/",
+      "originalUrl": "https://youtube.com/watch?v=q5fAcfEMQws",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5fAcfEMQws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M20S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-10-28T15:22:29-07:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q5fAcfEMQws/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
