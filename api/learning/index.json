@@ -34,23 +34,83 @@
       ]
     },
     {
-      "path": "_learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust.md",
-      "title": "The Relationship Between Psychological Safety and Trust",
-      "excerpt": "Although the phrases “psychological safety” and “trust” are often used together or interchangeably in discussions around workplace inclusion, they are different concepts. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin shares definitions of both concepts, explains why they go",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust/",
-      "originalUrl": "https://youtube.com/watch?v=xMBhMmpzYqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xMBhMmpzYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M36S",
+      "path": "_learning/videos/bhasin-consulting-inc-the-intersection-between-psychological-safety-and-anti-racism.md",
+      "title": "The Intersection Between Psychological Safety and Anti-Racism",
+      "excerpt": "When it comes to creating psychological safety in the workplace, it’s so important that we be intersectional in making this happen. In this video, DEI expert and bci’s CEO Ritu Bhasin shares why allyship and a commitment to anti-racism are key for creating psychologically safe workplaces where BIPOC",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-intersection-between-psychological-safety-and-anti-racism/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-intersection-between-psychological-safety-and-anti-racism/",
+      "originalUrl": "https://youtube.com/watch?v=PJDZvMuKL8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJDZvMuKL8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M3S",
       "provider": {
         "name": "bhasin consulting inc.",
         "domain": "bhasinconsulting.com"
       },
-      "publishedDateTime": "2022-08-18T06:54:45-07:00",
+      "publishedDateTime": "2022-08-18T06:55:46-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xMBhMmpzYqQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PJDZvMuKL8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-why-authoritative-and-challenging-leadership-styles-hurt-psychological-safety.md",
+      "title": "Why Authoritative and Challenging Leadership Styles Hurt Psychological Safety",
+      "excerpt": "While leaders embrace a range of leadership styles, when it comes to psychological safety we know that certain approaches are less effective. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin talks about why authoritative and challenging leadership styles strike at the creation",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-why-authoritative-and-challenging-leadership-styles-hurt-psychological-safety/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-why-authoritative-and-challenging-leadership-styles-hurt-psychological-safety/",
+      "originalUrl": "https://youtube.com/watch?v=DyQMz6XN35M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DyQMz6XN35M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M38S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-10-06T14:39:30-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DyQMz6XN35M/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-why-saying-i-dont-know-as-a-leader-is-key-for-psychological-safety.md",
+      "title": "Why Saying “I Don’t Know” as a Leader is Key for Psychological Safety",
+      "excerpt": "When you’re a leader, team members often turn to you for answers to a range of questions, which can feel like a lot of pressure, especially when we don’t know how to respond. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin shares why saying “I don’t know” as a leader can be a",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-why-saying-i-dont-know-as-a-leader-is-key-for-psychological-safety/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-why-saying-i-dont-know-as-a-leader-is-key-for-psychological-safety/",
+      "originalUrl": "https://youtube.com/watch?v=rC-zvZdGgi4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rC-zvZdGgi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-08-18T06:56:40-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rC-zvZdGgi4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1611,6 +1671,14 @@
       },
       "publishedDateTime": "2022-02-02T17:56:54-08:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://www.thoughtco.com/thmb/ljqeFy4tzj_57kN0sLHS8x9IkIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/equity-e0268e6974bd4cfe91fba827a9327293.png",
+          "width": 982,
+          "height": 593,
+          "isCached": false
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "topics": [
@@ -1750,145 +1818,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
-      "path": "_learning/collections/bhasin-consulting-inc-cultural-competence.md",
-      "title": "Cultural Competence",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/collections/bhasin-consulting-inc-cultural-competence/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/collections/bhasin-consulting-inc-cultural-competence/",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/bhasin-consulting-inc-the-right-way-to-ask-questions-about-your-colleagues-race-ritu-bhasin-the-walrus-talks.md",
-          "title": "The right way to ask questions about your colleague's race | Ritu Bhasin | The Walrus Talks",
-          "excerpt": "TD Presents: The Walrus Talks Resilience. Recorded November 2, 2015, at the Theatre Junction Grand in Calgary.  To purchase tickets to the next Walrus Talks in your area, visit http://thewalrus.ca/category/events/  ***  Ritu Bhasin, a globally recognized speaker, has delivered programming and coaching",
-          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-right-way-to-ask-questions-about-your-colleagues-race-ritu-bhasin-the-walrus-talks/index.json",
-          "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-right-way-to-ask-questions-about-your-colleagues-race-ritu-bhasin-the-walrus-talks/",
-          "originalUrl": "https://youtube.com/watch?v=y5lQdOSBot4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y5lQdOSBot4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M12S",
-          "provider": {
-            "name": "bhasin consulting inc.",
-            "domain": "bhasinconsulting.com"
-          },
-          "publishedDateTime": "2017-03-01T13:39:30-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/y5lQdOSBot4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "DEI"
-          ]
-        },
-        {
-          "path": "_learning/videos/bhasin-consulting-inc-why-cultural-competence-and-emotional-intelligence-go-hand-in-hand.md",
-          "title": "Why Cultural Competence and Emotional Intelligence Go Hand in Hand",
-          "excerpt": "Ritu Bhasin discusses why it's so important for leaders to develop a cultural lens and how this ties back to emotional intelligence.  - - - - -   bhasin consulting inc. (bci) is a world-renowned full-service diversity, equity and inclusion consulting firm dedicated to driving organizational change. We",
-          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-why-cultural-competence-and-emotional-intelligence-go-hand-in-hand/index.json",
-          "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-why-cultural-competence-and-emotional-intelligence-go-hand-in-hand/",
-          "originalUrl": "https://youtube.com/watch?v=PEeUca7bXWQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PEeUca7bXWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M47S",
-          "provider": {
-            "name": "bhasin consulting inc.",
-            "domain": "bhasinconsulting.com"
-          },
-          "publishedDateTime": "2020-03-09T08:47:59-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/PEeUca7bXWQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "DEI"
-          ]
-        },
-        {
-          "path": "_learning/videos/bhasin-consulting-inc-millennials-inclusion-applying-an-intersectionality-lens.md",
-          "title": "Millennials & Inclusion: Applying an Intersectionality Lens",
-          "excerpt": "We’re often told that Millennials possess certain traits, but the generalizations made about Millennials represent a homogeneous cross-section — that is, Millennials who belong to the dominant culture.   In this video, DEI expert Ritu Bhasin discusses intersectionality and how applying an intersectionality",
-          "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-millennials-inclusion-applying-an-intersectionality-lens/index.json",
-          "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-millennials-inclusion-applying-an-intersectionality-lens/",
-          "originalUrl": "https://youtube.com/watch?v=8g1bmNBqnMk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8g1bmNBqnMk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M37S",
-          "provider": {
-            "name": "bhasin consulting inc.",
-            "domain": "bhasinconsulting.com"
-          },
-          "publishedDateTime": "2017-03-01T13:38:53-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/8g1bmNBqnMk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "DEI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y5lQdOSBot4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
-      "path": "_learning/courses/united-way-of-central-iowa-21-day-equity-challenge.md",
-      "title": "21 Day Equity Challenge",
-      "excerpt": "The 21-Day Equity Challenge is a powerful opportunity to develop a deeper understanding of how inequity and racism affect our lives and our community.",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/courses/united-way-of-central-iowa-21-day-equity-challenge/index.json",
-      "webUrl": "https://www.unitedwaydm.org/equity-challenge",
-      "provider": {
-        "name": "United Way of Central Iowa",
-        "domain": "unitedwaydm.org"
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
       "topics": [
         "DEI"
       ]

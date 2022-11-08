@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1M36S
 publishedDateTime: 2022-08-18T13:54:45Z
-heat: 130
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xMBhMmpzYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

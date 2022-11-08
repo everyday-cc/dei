@@ -13,5 +13,10 @@ provider:
 topics:
   - DEI
 
+images:
+  - url: https://www.thoughtco.com/thmb/ljqeFy4tzj_57kN0sLHS8x9IkIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/equity-e0268e6974bd4cfe91fba827a9327293.png
+    width: 982
+    height: 593
+
 ---
 

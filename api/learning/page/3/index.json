@@ -4,6 +4,66 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/bhasin-consulting-inc-the-most-inclusive-label-free-way-of-talking-about-mental-health.md",
+      "title": "The Most Inclusive, Label-Free Way of Talking About Mental Health",
+      "excerpt": "Mental health is not binary, but the ways we speak about mental health can be non-inclusive and judgmental. Mental health expert Komal Bhasin discusses the mental health continuum and how we can talk and think about mental health in a more inclusive, label-free, and holistic way.  - - - - -   bhasin",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-most-inclusive-label-free-way-of-talking-about-mental-health/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-most-inclusive-label-free-way-of-talking-about-mental-health/",
+      "originalUrl": "https://youtube.com/watch?v=pBhthe_mIvk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pBhthe_mIvk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M38S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2019-11-07T11:24:32-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pBhthe_mIvk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI"
+      ]
+    },
+    {
+      "path": "_learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust.md",
+      "title": "The Relationship Between Psychological Safety and Trust",
+      "excerpt": "Although the phrases “psychological safety” and “trust” are often used together or interchangeably in discussions around workplace inclusion, they are different concepts. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin shares definitions of both concepts, explains why they go",
+      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust/index.json",
+      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-the-relationship-between-psychological-safety-and-trust/",
+      "originalUrl": "https://youtube.com/watch?v=xMBhMmpzYqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xMBhMmpzYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M36S",
+      "provider": {
+        "name": "bhasin consulting inc.",
+        "domain": "bhasinconsulting.com"
+      },
+      "publishedDateTime": "2022-08-18T06:54:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xMBhMmpzYqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "DEI"
+      ]
+    },
+    {
       "path": "_learning/videos/bhasin-consulting-inc-the-right-way-to-ask-questions-about-your-colleagues-race-ritu-bhasin-the-walrus-talks.md",
       "title": "The right way to ask questions about your colleague's race | Ritu Bhasin | The Walrus Talks",
       "excerpt": "TD Presents: The Walrus Talks Resilience. Recorded November 2, 2015, at the Theatre Junction Grand in Calgary.  To purchase tickets to the next Walrus Talks in your area, visit http://thewalrus.ca/category/events/  ***  Ritu Bhasin, a globally recognized speaker, has delivered programming and coaching",
@@ -336,36 +396,6 @@
       ]
     },
     {
-      "path": "_learning/videos/bhasin-consulting-inc-why-authoritative-and-challenging-leadership-styles-hurt-psychological-safety.md",
-      "title": "Why Authoritative and Challenging Leadership Styles Hurt Psychological Safety",
-      "excerpt": "While leaders embrace a range of leadership styles, when it comes to psychological safety we know that certain approaches are less effective. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin talks about why authoritative and challenging leadership styles strike at the creation",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-why-authoritative-and-challenging-leadership-styles-hurt-psychological-safety/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-why-authoritative-and-challenging-leadership-styles-hurt-psychological-safety/",
-      "originalUrl": "https://youtube.com/watch?v=DyQMz6XN35M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DyQMz6XN35M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M38S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-10-06T14:39:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DyQMz6XN35M/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
       "path": "_learning/videos/bhasin-consulting-inc-why-cultural-competence-and-emotional-intelligence-go-hand-in-hand.md",
       "title": "Why Cultural Competence and Emotional Intelligence Go Hand in Hand",
       "excerpt": "Ritu Bhasin discusses why it's so important for leaders to develop a cultural lens and how this ties back to emotional intelligence.  - - - - -   bhasin consulting inc. (bci) is a world-renowned full-service diversity, equity and inclusion consulting firm dedicated to driving organizational change. We",
@@ -505,36 +535,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ix-Wn8vprUQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "DEI"
-      ]
-    },
-    {
-      "path": "_learning/videos/bhasin-consulting-inc-why-saying-i-dont-know-as-a-leader-is-key-for-psychological-safety.md",
-      "title": "Why Saying “I Don’t Know” as a Leader is Key for Psychological Safety",
-      "excerpt": "When you’re a leader, team members often turn to you for answers to a range of questions, which can feel like a lot of pressure, especially when we don’t know how to respond. In this video, bci’s Mental Health Expert-in-Residence Dr. Komal Bhasin shares why saying “I don’t know” as a leader can be a",
-      "sourceUrl": "https://everyday-cc.github.io/dei/api/learning/videos/bhasin-consulting-inc-why-saying-i-dont-know-as-a-leader-is-key-for-psychological-safety/index.json",
-      "webUrl": "https://everyday.cc/dei/learning/videos/bhasin-consulting-inc-why-saying-i-dont-know-as-a-leader-is-key-for-psychological-safety/",
-      "originalUrl": "https://youtube.com/watch?v=rC-zvZdGgi4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rC-zvZdGgi4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58S",
-      "provider": {
-        "name": "bhasin consulting inc.",
-        "domain": "bhasinconsulting.com"
-      },
-      "publishedDateTime": "2022-08-18T06:56:40-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rC-zvZdGgi4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
