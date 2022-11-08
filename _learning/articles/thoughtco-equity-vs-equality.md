@@ -4,7 +4,7 @@ excerpt: "In the context of social systems such as education, politics, and gove
 webUrl: https://www.thoughtco.com/equity-vs-equality-4767021
 type: article
 publishedDateTime: 2022-02-03T01:56:54Z
-heat: 50
+heat: 1000000000
 
 provider:
   name: ThoughtCo
